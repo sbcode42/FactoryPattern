@@ -1,0 +1,13 @@
+C:\Users\Testpiggy\repos\FactoryPattern\bin\Debug\netcoreapp3.1\FactoryPattern.exe
+C:\Users\Testpiggy\repos\FactoryPattern\bin\Debug\netcoreapp3.1\FactoryPattern.deps.json
+C:\Users\Testpiggy\repos\FactoryPattern\bin\Debug\netcoreapp3.1\FactoryPattern.runtimeconfig.json
+C:\Users\Testpiggy\repos\FactoryPattern\bin\Debug\netcoreapp3.1\FactoryPattern.runtimeconfig.dev.json
+C:\Users\Testpiggy\repos\FactoryPattern\bin\Debug\netcoreapp3.1\FactoryPattern.dll
+C:\Users\Testpiggy\repos\FactoryPattern\bin\Debug\netcoreapp3.1\FactoryPattern.pdb
+C:\Users\Testpiggy\repos\FactoryPattern\obj\Debug\netcoreapp3.1\FactoryPattern.csprojAssemblyReference.cache
+C:\Users\Testpiggy\repos\FactoryPattern\obj\Debug\netcoreapp3.1\FactoryPattern.AssemblyInfoInputs.cache
+C:\Users\Testpiggy\repos\FactoryPattern\obj\Debug\netcoreapp3.1\FactoryPattern.AssemblyInfo.cs
+C:\Users\Testpiggy\repos\FactoryPattern\obj\Debug\netcoreapp3.1\FactoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\Testpiggy\repos\FactoryPattern\obj\Debug\netcoreapp3.1\FactoryPattern.dll
+C:\Users\Testpiggy\repos\FactoryPattern\obj\Debug\netcoreapp3.1\FactoryPattern.pdb
+C:\Users\Testpiggy\repos\FactoryPattern\obj\Debug\netcoreapp3.1\FactoryPattern.genruntimeconfig.cache
